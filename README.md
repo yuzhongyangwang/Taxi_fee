@@ -17,7 +17,11 @@
 ```
   npm install
 ```
-2.将node_modules.rar文件解压，覆盖根目录Taxi_fee下的文件夹node_modules；
+2.安装‘chai’包:
+
+```
+  npm install chai
+```
 
 3.执行测试：
 
